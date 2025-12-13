@@ -1,7 +1,7 @@
 # FANG preparation:
 - started on 13th december...
 - I'll add three files for each question,
--  1. Brute force approach.
+   1. Brute force approach.
    2. Optimzed approach
    3. Logic explained in simple way...
 

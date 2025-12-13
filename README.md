@@ -2,7 +2,7 @@
 - started on 13th december...
 - I'll add three files for each question,
    1. Brute force approach.
-   2. Optimzed approach
+   2. Optimized approach
    3. Logic explained in simple way...
 
 -----------------------------------------

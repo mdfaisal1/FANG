@@ -11,7 +11,7 @@ InShaAllah, everything will be fine :)
 
 As Allah SWT says in the Quran,
 
-                                                                                                                                                                                        فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ
+فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ
 Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him.
 Quran (3:159)
 

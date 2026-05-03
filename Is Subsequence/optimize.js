@@ -1,5 +1,7 @@
 const isSubsequence = (s, t) => {
-    let p1 = 0 // pointer for s
+    if (s.length === 0) return true
+
+    let p1 = 0
 
     for (let p2 = 0; p2 < t.length; p2++) {
         if (s[p1] === t[p2]) {
